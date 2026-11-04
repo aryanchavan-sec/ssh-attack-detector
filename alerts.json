@@ -1,0 +1,44 @@
+[
+  {
+    "ip": "183.62.140.253",
+    "failed_logins": 286,
+    "usernames_tried": 10,
+    "mitre_technique": "T1110 Brute Force"
+  },
+  {
+    "ip": "187.141.143.180",
+    "failed_logins": 80,
+    "usernames_tried": 28,
+    "mitre_technique": "T1110 Brute Force"
+  },
+  {
+    "ip": "103.99.0.122",
+    "failed_logins": 46,
+    "usernames_tried": 19,
+    "mitre_technique": "T1110 Brute Force"
+  },
+  {
+    "ip": "112.95.230.3",
+    "failed_logins": 26,
+    "usernames_tried": 3,
+    "mitre_technique": "T1110 Brute Force"
+  },
+  {
+    "ip": "5.188.10.180",
+    "failed_logins": 18,
+    "usernames_tried": 7,
+    "mitre_technique": "T1110 Brute Force"
+  },
+  {
+    "ip": "185.190.58.151",
+    "failed_logins": 17,
+    "usernames_tried": 3,
+    "mitre_technique": "T1110 Brute Force"
+  },
+  {
+    "ip": "123.235.32.19",
+    "failed_logins": 7,
+    "usernames_tried": 1,
+    "mitre_technique": "T1110 Brute Force"
+  }
+]
